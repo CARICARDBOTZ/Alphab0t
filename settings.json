@@ -5,11 +5,11 @@
 	"user_register": false,
 	"anti_delete" : false,
 	"anticall": false,
-	"auto_welcome_msg": true,
-	"auto_leave_msg": true,
+	"auto_welcome_msg": false,
+	"auto_leave_msg": false,
 	"prefix": ".",
 	"language":"ind",
-	"ownerNumberr": "62887435047326",
+	"ownerNumberr": "081257435130",
 	"ownername": "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×",
 	"botname":"Alphabot",
 	"thumb":"thumbnail_1.jpg",
@@ -18,4 +18,4 @@
 	"donasi":"donasi.jpg",
 	"captionpay":"Scan untuk melakukan pembayaran",
 	"fake": " 「  ALPHABOT  」\nCreated By ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×"
-}
+        "user_profile": false,
